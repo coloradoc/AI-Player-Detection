@@ -23,7 +23,7 @@ Mouse movement towards the detected object
 
 pip install -r requirements.txt
 
-##Usage
+## Usage
 Run the script with:
 python player_detection.py
   
