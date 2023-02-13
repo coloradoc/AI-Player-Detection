@@ -1,7 +1,7 @@
 # Player Detection
 Player Detection is a computer vision based project used to detect people or objects and move the mouse cursor towards the target in response. This project is implemented using OpenCV, a popular library for computer vision tasks.
 
-Features
+>Features
 Object detection using Haar cascades
 Mouse movement towards the detected object
 
