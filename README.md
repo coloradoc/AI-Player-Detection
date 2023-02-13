@@ -1,12 +1,12 @@
 # Player Detection
 Player Detection is a computer vision based project used to detect people or objects and move the mouse cursor towards the target in response. This project is implemented using Yolov8, a library for computer vision tasks.
 
-##Features
+## Features
 Object detection
 Mouse movement towards the detected object
 
 
-##Requirements
+## Requirements
 -Python 
 -cv2
 -PyAutoGUI
@@ -17,7 +17,7 @@ Mouse movement towards the detected object
 -pynput.mouse
 
 
-##Installation
+## Installation
 1. Clone the repository
 2. Install the required packages
 
