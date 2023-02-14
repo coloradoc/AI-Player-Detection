@@ -7,14 +7,14 @@ Player Detection is a computer vision based project used to detect people or obj
 - Made for video games
 
 ## Requirements
-- Python 
-- cv2
-- PyAutoGUI
-- numpy
-- ultralytics (Yolov8)
-- time
-- pandas
-- pynput.mouse
+- 💻Python 
+- 😎cv2
+- 😊PyAutoGUI
+- 🔢numpy
+- 😁ultralytics (Yolov8)
+- ⌚time
+- 🐼pandas
+- 🐭pynput.mouse
 
 
 ## Installation
